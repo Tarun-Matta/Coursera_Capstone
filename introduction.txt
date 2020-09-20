@@ -1,0 +1,4 @@
+Business Case:
+ Schooling is the most important phase of any person in their life. A parent always looks for a great school to put their children into so that it shapes the career of the child from very fundamental way. This project is aimed to produce an effective report that helps such parents choosing a community in chicago that has the best schools.
+
+In this project I consider 3 important attributes that make a school good which are the average attandence, Safety score and College enrollment. The average attendence of any school clearly shows how well the students are interested to attend school. The safety score given for each school by the officials is an important metric to be considered while joining a school. A decent number of students enrolling to college from a particular school also tells about the wellness of a school. So we form clusters of areas with schools having better averages in these three measures. 
